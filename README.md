@@ -1,0 +1,1 @@
+This repository contains roadmaps for various technology domains to help guide individuals through the learning and development process. Whether you are interested in Android development, frontend or backend web development, data science, Flutter, and more, you'll find a roadmap tailored to your area of interest.
